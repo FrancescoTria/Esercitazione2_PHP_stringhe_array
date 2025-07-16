@@ -1,6 +1,6 @@
 # Esercitazione2_PHP_stringhe_array
 
-## 📚 Elenco Esercizi
+## 📘 Elenco esercizi Elenco Esercizi
 
 ### 1. Analisi di una stringa
 - Definire una variabile con un nome.
