@@ -1,4 +1,4 @@
-# Esercitazione_PHP_stringhe_array
+# Esercitazione2_PHP_stringhe_array
 
 ## 📚 Elenco Esercizi
 
